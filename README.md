@@ -1,1 +1,1 @@
-# MachineLearningImageRecognition
+# Machine Learning Image Recognition
